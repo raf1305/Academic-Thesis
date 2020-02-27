@@ -1,0 +1,13 @@
+With DIV
+
+Accuracy:87.5
+Specificity:76.923
+Sensitivity:90.196
+MCC:63.7469
+
+Without DIV
+
+Accuracy:89.0625
+Specificity:53.846
+Sensitivity:98.039
+MCC:63.119

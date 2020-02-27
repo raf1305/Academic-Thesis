@@ -1,0 +1,54 @@
+
+Accuracy : 0.859375
+Sensitivity : 0.9803921568627451
+Specificity : 0.38461538461538464
+MCC : 0.5038125479200453
+
+
+Accuracy : 0.859375
+Sensitivity : 0.9803921568627451
+Specificity : 0.38461538461538464
+MCC : 0.5038125479200453
+
+
+Accuracy : 0.90625
+Sensitivity : 1.0
+Specificity : 0.5384615384615384
+MCC : 0.6941047302231981
+
+
+Accuracy : 0.875
+Sensitivity : 1.0
+Specificity : 0.38461538461538464
+MCC : 0.576597039554894
+
+
+Accuracy : 0.875
+Sensitivity : 1.0
+Specificity : 0.38461538461538464
+MCC : 0.576597039554894
+
+
+Accuracy : 0.90625
+Sensitivity : 1.0
+Specificity : 0.5384615384615384
+MCC : 0.6941047302231981
+
+
+Accuracy : 0.875
+Sensitivity : 1.0
+Specificity : 0.38461538461538464
+MCC : 0.576597039554894
+
+
+Accuracy : 0.890625
+Sensitivity : 1.0
+Specificity : 0.46153846153846156
+MCC : 0.6370522300146026
+
+
+Accuracy : 0.890625
+Sensitivity : 1.0
+Specificity : 0.46153846153846156
+MCC : 0.6370522300146026
+
