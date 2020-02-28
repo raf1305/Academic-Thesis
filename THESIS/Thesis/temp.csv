@@ -1,0 +1,5 @@
+,,               Jackknife Cross Validation,,,,,                    Independent Testing,,,,,               10-fold Cross Validation,,,
+Feature Space,, ACC, Sn, Sp, MCC,, ACC, Sn, Sp, MCC,, ACC, Sn, Sp, MCC
+Ahmad,,83.77,12.5,98.33,0.22,,77.96,17.5,90.3,0.09,,82.07,14.59,95.83,0.16
+Yang,,-,-,-,-,,-,-,-,-,,81.4,91.8,30,0.253
+isGPT,,-,-,-,-,,81.77,94.89,17.5,0.17,,96.33,93.01,99.65,0.92

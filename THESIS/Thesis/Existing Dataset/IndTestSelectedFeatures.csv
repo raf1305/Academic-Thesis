@@ -1,0 +1,4 @@
+,,,,Independent Testing,,,
+Feature Space,,Dimension,,Acc,Sn,Sp,MCC
+DPC+Bigram+SAAC,,866,,92.2 ( 79.68 ),80.7 ( 96.07 ),95.1 ( 15.38 ),0.79 ( 0.19 )
+DPC+Bigram+SAAC (Fisher),,83,,94.8 ( 81.25 ),94 ( 96.07 ),93.9 ( 23.07 ),0.86 ( 0.28 )

@@ -1,0 +1,16 @@
+,,,,10-fold cross validation,,,
+Method,,Dimension,,Acc,Sn,Sp,MCC
+Di-Peptide Composition,,434*400,,93.8 ( 66.8 ),96.7 ( 87.58 ),90.9 ( 47.02 ),0.88 ( 0.37 )
+Bigram-PSSM,,434*400,,75.3 ( 66.13 ),84.7 ( 96.77 ),66 ( 35.47 ),0.53 ( 0.4 )
+SAAC,,434*66,,96.8 ( 72.81 ),97 ( 47.36 ),95.6 ( 98.07 ),0.94 ( 0.52 )
+DPC+Bigram,,434*800,,88.5 ( 68.43 ),93.8 ( 97.48 ),83.2 ( 39.81 ),0.78 ( 0.45 )
+Bigram+SAAC,,434*466,,88.3 ( 67.94 ),93 ( 36.29 ),83.5 ( 99.58 ),0.77 ( 0.45 )
+DPC+SAAC,,434*466,,94.5 ( 64.33 ),97.2 ( 36.62 ),91.7 ( 92.95 ),0.89 ( 0.35 )
+DPC+Bigram+SAAC,,434*866,,91.9 ( 64.56 ),96 ( 31.13 ),87.9 ( 98.26 ),0.84 ( 0.39 )
+Di-Peptide Composition k = 18 ,71.35483870967741,0.0,100.0,0.0
+Di-Peptide Composition Di-Peptide Composition k = 18 ,71.3225806451613,0.0,100.0,0.0
+Di-Peptide Composition k = 18 ,71.36559139784946,0.0,100.0,0.0
+Di-Peptide Composition Di-Peptide Composition Di-Peptide Composition Di-Peptide Composition k = 18 ,71.43010752688173,0.0,100.0,0.0
+Di-Peptide Composition k = 18 ,71.38709677419355,0.0,100.0,0.0
+Di-Peptide Composition k = 3 ,75.01075268817205,17.17965367965368,98.12878787878788,0.2649811597429314
+Di-Peptide Composition k = 5 ,73.61290322580645,10.281135531135531,99.58333333333334,0.20016237598893022
